@@ -1,10 +1,20 @@
 ---
 layout: post
-title: You're up and running!
+title: About the Purpose of This Blog and a First Post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Most of the time i use the internet in a passive and observant way, being impressed by the great problems, ideas and solutions other people share on for example stackoverflow.com, in forums, youtube, or on their personal blogs. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+The first reason for this blog i had in mind was to **share my stories about bugs**. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+_What_?
+
+Well most of the time a developer is happy once he/she fixed an annoying and frustrating bug and does not want to talk ever about it again. But every programmer had it: some unexpected behaviour in your program makes it spit out some ridiculous results, and makes you unable to stop giggling, especially if it is in the deep of the night and you are totally overtired, makes you feel insane. Or sometimes, the output doesn't make sense, but just looks beautiful. 
+
+I had quite a few of the mentioned. i regard some of them worth to share, e.g. this one:
+
+![]({{ site.baseurl }} /images/post0.png " ")
+
+_Erh, okaaay, what, how, why...?_
+
+All of that in the next post!
