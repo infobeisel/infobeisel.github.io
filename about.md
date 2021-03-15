@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-curious programmer; astonished, amazed, excited O.o
+curious programmer
 
 ### Contact me
 
